@@ -206,7 +206,7 @@ git push
 After pushing, keep the README video link as:
 
 ```markdown
-[Open demo video](./download.mp4)
+[Open demo video](ppo-LunarLander-v3/download.mp4)
 ```
 
 ## Recommended Repository Structure
